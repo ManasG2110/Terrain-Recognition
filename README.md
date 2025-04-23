@@ -112,7 +112,7 @@ This project was developed by Team "LearnX" as part of SIH: Deep learning for te
 
 TEAM LEAD: S AKASH
 
-MEMBER 1::Manas Gupta
+MEMBER 1:Manas Gupta
 
 MEMBER 2:Ruchi Chand Thakur
 
